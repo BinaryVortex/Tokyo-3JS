@@ -8,8 +8,6 @@ Interactive, pixel-art exploration demo inspired by a Figma concept.
 
 This repository contains a small React + Vite application that renders a stylized Tokyo city scene with interactive pages, music, and pixel characters.
 
-Original design / inspiration: https://www.figma.com/design/U1sCnshO5seEGb8B8bO1P3/Tokyo--Explore-the-City--Community-
-
 ## Quick overview
 
 - Stack: Vite, React (peer), TypeScript (codebase files end in .tsx/.ts), Tailwind CSS, Radix UI primitives and a small custom component set.
