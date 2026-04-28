@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # Tokyo: Explore the City (Community)
 
 Interactive, pixel-art exploration demo inspired by a Figma concept.
